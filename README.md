@@ -51,6 +51,10 @@ https://github.com/user-attachments/assets/17f01d19-f18d-43d6-b32d-e9561fc668ee
 
 ## 📌 Future Enhancements
 - GUI version using Tkinter
+
+https://github.com/user-attachments/assets/e5580ba8-f501-47cf-849c-bd7c941ebd11
+
+
 - Password hashing
 - File storage with encryption
 - Web app version 
