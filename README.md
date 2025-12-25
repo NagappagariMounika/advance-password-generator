@@ -30,32 +30,23 @@ similar to real-world password managers.
 
 ## 🔒 Security Rules Applied
 - Minimum length: 8 characters
-- Mandatory character diversity
-
-https://github.com/user-attachments/assets/e9c0775a-f29e-44ab-b6b0-73f183a07584
-
-
-
-https://github.com/user-attachments/assets/bfa3d881-98d9-455f-a098-42cf8397e361
-
-
-https://github.com/user-attachments/assets/e1802f4b-ef81-4d33-8bbb-753f441014f0
+- Mandatory character divers
 
 
 
 - Strength scoring logic
-
-https://github.com/user-attachments/assets/17f01d19-f18d-43d6-b32d-e9561fc668ee
 
 
 
 ## 📌 Future Enhancements
 - GUI version using Tkinter
 
-https://github.com/user-attachments/assets/e5580ba8-f501-47cf-849c-bd7c941ebd11
-
 
 - Password hashing
 - File storage with encryption
 - Web app version 
+
+
+
+https://github.com/user-attachments/assets/4ad5ad6f-93ad-4aef-a9bb-5b5628ccc4dd
 
