@@ -61,8 +61,5 @@ https://github.com/user-attachments/assets/17f01d19-f18d-43d6-b32d-e9561fc668ee
 - GUI version using Tkinter
 - Password hashing
 - File storage with encryption
-- Web app version
-
-
-https://github.com/user-attachments/assets/8a904cae-4ca2-4b03-8a9b-f2396be99e7c
+- Web app version 
 
