@@ -49,3 +49,7 @@ similar to real-world password managers.
 
 
 
+
+
+https://github.com/user-attachments/assets/e34fceb4-27d2-4617-80ab-04896fcffee4
+
