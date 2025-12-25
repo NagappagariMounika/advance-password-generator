@@ -48,5 +48,4 @@ similar to real-world password managers.
 
 
 
-https://github.com/user-attachments/assets/4ad5ad6f-93ad-4aef-a9bb-5b5628ccc4dd
 
