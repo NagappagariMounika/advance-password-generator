@@ -34,6 +34,3 @@ similar to real-world password managers.
 - Password hashing
 - File storage with encryption
 - Web app version
-
-## 👩‍💻 Author
-ramadevi Munirathnam
