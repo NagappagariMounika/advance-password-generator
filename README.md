@@ -4,15 +4,7 @@ A secure and customizable Advanced Password Generator that creates strong passwo
 
 ## 📌 Project Overview
 
-https://github.com/user-attachments/assets/73fa4d2f-ab1d-4532-a7c8-4d310012b165
-
-
-
-https://github.com/user-attachments/assets/875c6b23-ac49-4e2c-bb4a-f036e7aedbc2
-
-
-
-https://github.com/user-attachments/assets/718c99cf-d96e-4606-ba18-2f5a00b2d544
+https://github.com/user-attachments/assets/73fa4d2f-ab1d-4532-a7c8-4d310012b1
 
 
 This project is a secure password generator built using Python.  
